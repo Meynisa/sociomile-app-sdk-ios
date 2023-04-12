@@ -1,2 +1,3 @@
 # sociomile-app-sdk-ios
-Sociomile SDK iOS App Flutter Framework
+
+A description of this package.
